@@ -1,0 +1,31 @@
+body {
+    background-color: #1F2041;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: #4B3F72;
+}
+
+img {
+    height: auto;
+    width: 50%;
+}
+
+.intro {
+    background-color: #4B3F72;
+}
+
+.about {
+    background-color: #FFC857;
+    color: black;
+}
+
+.projects {
+    background-color: #119DA4;
+}
+
+.contact {
+    background-color: #19647E;
+}
