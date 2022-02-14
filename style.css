@@ -1,11 +1,11 @@
 body {
-    background-color: #121427;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+    color: #121427;
+    font-family: 'Arial', Arial, Helvetica, sans-serif, monospace;
 }
 
 div {
-    background-color: #2d2544;
+    background-color: whitesmoke;
     border-style: solid;
     border-width: 2px;
     
@@ -28,7 +28,8 @@ ul {
   
 li {
     float: left;
-    border-right: #121427 2px solid;
+    border-right: #0d0a14 2px solid;
+    background-color: rgb(93, 47, 145);
 }
   
 li a {
@@ -73,4 +74,8 @@ li a:hover {
 .prj_pic {
     height: auto;
     width: 50%;
+}
+
+.navbar {
+    background-color: #121427;
 }
